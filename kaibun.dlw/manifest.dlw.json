@@ -1,0 +1,11 @@
+{
+  "badge": "DLW-KAIBUN",
+  "name": "回文 KAIBUN · KAI",
+  "universe": "ARTIFICIAL INTELLIGENCE",
+  "moniker": "⟦回文 KAIBUN · KAI:kaibun:966512⟧",
+  "architect": "David Lee Wise (ROOT0) / Bridge-Burners LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "seal_sha256": "966512eaf8b4c067a1b00d10d09541f2d4c68f9a362b1a7b8c256089d251bcd6",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
